@@ -1,0 +1,20 @@
+.width {
+    width: 40vw;
+}
+.header{
+    height:35px;
+    background-color:rgb(236, 235, 235);
+    border-radius: 1em 1em 0em 0em;
+}
+.body{
+    height:fit-content;
+    background-color: rgb(247, 246, 245);
+    padding: 3em 3em 3em 3em;
+}
+
+
+@media (max-width: 950px) {
+    .width {
+        width:100%;
+    }
+ }

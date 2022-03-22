@@ -1,0 +1,21 @@
+.Popup {
+    position: absolute;
+    display:flex;
+    justify-content: center;
+    background-color: rgba(126, 126, 126, 0.829);
+    height: 100%;
+}
+.background{
+    margin-top: 100px;
+    height:50vh;
+    background-color: rgb(240, 240, 240);
+    border-radius: 0.5em;
+    padding: 3em;
+   
+}
+.row{
+    margin-top:20vh;
+}
+.button{
+    width:100%;
+}

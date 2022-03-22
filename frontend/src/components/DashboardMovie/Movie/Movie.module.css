@@ -1,0 +1,21 @@
+.header{
+    height:35px;
+    background-color:rgb(236, 235, 235);
+    border-radius: 1em 1em 0em 0em;
+}
+.test{
+    background-color: rgb(247, 246, 245);
+    border-bottom: 3px solid;
+    border-color: rgb(226, 226, 226);
+}
+.img {
+    width: 115px;
+    border-radius: 1em;
+    height: 80px;
+}
+.width{
+    max-width:80vw;
+}
+.padding{
+    padding: 10px 10px 10px 10px;
+}
